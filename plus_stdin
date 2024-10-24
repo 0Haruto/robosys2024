@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2024 Haruto Yamamoto <s23C1146PP@s.chibakoudai.jp>
+
+
 import sys
 ans = 0
 
